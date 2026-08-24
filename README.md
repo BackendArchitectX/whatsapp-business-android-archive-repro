@@ -48,7 +48,64 @@ The same archived chat is visible and accessible through WhatsApp Web.
 
 ## Evidence
 
-Screenshots demonstrating the behavior will be available in the `evidence/` directory.
+### Android
+
+#### WhatsApp Business App
+
+<img src="evidence/01-whatsapp-business-app-page.jpeg" width="320">
+
+#### WhatsApp Business Version
+
+<img src="evidence/02-whatsapp-business-version.jpeg" width="320">
+
+#### Device Environment
+
+<img src="evidence/03-device-environment.jpeg" width="320">
+
+#### Archived Section Not Visible
+
+After archiving a chat, the Android main Chats screen does not show an **Archived** section.
+
+<img src="evidence/07-android-main-screen-archived-section-not-visible.jpeg" width="320">
+
+#### Chat Archived Successfully
+
+The application confirms that the chat was successfully archived.
+
+<img src="evidence/08-android-chat-archived-confirmation.jpeg" width="320">
+
+#### Archived Option Not Available in Menu
+
+The Android menu also does not provide an option to access archived chats.
+
+<img src="evidence/09-android-menu-archived-option-not-visible.jpeg" width="320">
+
+### WhatsApp Web
+
+#### WhatsApp Web Main Screen
+
+<img src="evidence/04-whatsapp-web-main-screen.png" width="850">
+
+#### Archived Option Available
+
+Unlike the Android application, WhatsApp Web provides an **Archived** option in the main menu.
+
+<img src="evidence/05-whatsapp-web-archived-menu.png" width="850">
+
+#### Archived Chats Accessible
+
+The same archived chat is accessible from the **Archived** section on WhatsApp Web.
+
+<img src="evidence/06-whatsapp-web-archived-section.png" width="850">
+
+### Video Reproduction
+
+The following screen recording demonstrates the issue on WhatsApp Business for Android.
+
+[▶ Watch Android screen recording](evidence/10-android-archive-bug-reproduction.mp4)
+
+[<img src="evidence/08-android-chat-archived-confirmation.jpeg" width="320" alt="Android archive bug video preview">](evidence/10-android-archive-bug-reproduction.mp4)
+
 
 ## Notes
 
